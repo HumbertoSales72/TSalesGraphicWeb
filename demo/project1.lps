@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="33">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="177"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="10"/>
+        <UsageCount Value="177"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../salesgraphicweb_translation.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="24"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../salesgraphicweb.pas"/>
+        <UnitName Value="SalesGraphicWeb"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="12"/>
+        <UsageCount Value="86"/>
+        <Bookmarks Count="2">
+          <Item0 X="44" Y="995"/>
+          <Item1 X="14" Y="61" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../Lazarus_Deluxe/lazarus/lcl/include/picture.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="583"/>
+        <CursorPos Y="595"/>
+        <UsageCount Value="53"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../_Units/Json/jsontools.pas"/>
+        <UnitName Value="JsonTools"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1052"/>
+        <CursorPos Y="1068"/>
+        <UsageCount Value="41"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../_Units/Funcoes/backup/funcoes.pas"/>
+        <UnitName Value="Funcoes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1119"/>
+        <CursorPos X="12" Y="1130"/>
+        <UsageCount Value="53"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../../Exemplos/FPHTTPServer/Desenvolvimento MVC/funcoes/untmodelRemoto.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="22" Y="21"/>
+        <UsageCount Value="53"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../Lazarus_Deluxe/fpcsrc/packages/rtl-objpas/src/inc/strutils.pp"/>
+        <UnitName Value="StrUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="157"/>
+        <CursorPos Y="171"/>
+        <UsageCount Value="23"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../Lazarus_Deluxe/fpcsrc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="28" Y="28"/>
+        <UsageCount Value="23"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../Lazarus_Deluxe/lazarus/lcl/grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8664"/>
+        <CursorPos Y="8675"/>
+        <UsageCount Value="45"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../Lazarus_Deluxe/lazarus/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="54"/>
+        <CursorPos X="3" Y="66"/>
+        <UsageCount Value="40"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../TSalesCarga_SalesTable/salescarga.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos Y="15"/>
+        <UsageCount Value="31"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../TSalesCarga_SalesTable/salestable.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="24"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../TPopUpListNotifier/popListNotifier.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <UsageCount Value="5"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../Alarme1/alarme.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="41" Y="90"/>
+        <UsageCount Value="5"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../TAlarme/alarme.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="37" Y="69"/>
+        <UsageCount Value="5"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../GranButton/src/ugradbtn.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="968"/>
+        <CursorPos X="20" Y="993"/>
+        <UsageCount Value="24"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../../Lazarus_Deluxe/fpcsrc/rtl/objpas/sysutils/sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="108"/>
+        <CursorPos X="4" Y="107"/>
+        <UsageCount Value="22"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="../../bgrabitmap-master/bgrabitmap/bgragifformat.pas"/>
+        <UnitName Value="BGRAGifFormat"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="17" Y="82"/>
+        <UsageCount Value="22"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="../../fp-telegram-master/tgstatlog.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <CursorPos X="15" Y="63"/>
+        <UsageCount Value="22"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="../../fp-telegram-master_old/tgstatlog.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="15" Y="63"/>
+        <UsageCount Value="22"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="../../lazsolutions-master/Units/LSExceptionUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="67"/>
+        <CursorPos Y="69"/>
+        <UsageCount Value="22"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="../../lazsolutions-master/Units/LSHTTPSend.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="35"/>
+        <CursorPos X="21" Y="46"/>
+        <UsageCount Value="22"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="../../../Fazenda/funcoes/untview.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="245"/>
+        <CursorPos X="4" Y="249"/>
+        <UsageCount Value="30"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="../../Lazarus_Deluxe/lazarus/components/lazutils/graphtype.pp"/>
+        <UnitName Value="GraphType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="3" Y="35"/>
+        <UsageCount Value="40"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="../../Lazarus_Deluxe/config_lazarus/onlinepackagemanager/packages/spktoolbar/SpkToolbar/SpkToolbar.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="11" Y="148"/>
+        <UsageCount Value="40"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="../../Lazarus_Deluxe/config_lazarus/onlinepackagemanager/packages/spktoolbar/SpkToolbar/spkt_Appearance.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="356"/>
+        <CursorPos X="22" Y="372"/>
+        <UsageCount Value="40"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="31" Y="111"/>
+        <UsageCount Value="23"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="../salesgraphicweb.lrs"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="../../Lazarus_Deluxe/lazarus/components/lazutils/translations.pas"/>
+        <UnitName Value="Translations"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="../graphicwebconst.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="/home/server/Lazarus_Deluxe/fpcsrc/packages/openssl/src/opensslsockets.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit32>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

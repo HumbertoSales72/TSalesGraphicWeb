@@ -1,0 +1,84 @@
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+20841 memory blocks allocated : 44588985/44627392
+20841 memory blocks freed     : 44588985/44627392
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+9906 memory blocks allocated : 2407500/2418112
+9906 memory blocks freed     : 2407500/2418112
+0 unfreed memory blocks : 0
+True heap size : 688128
+True free heap : 688128
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+24417 memory blocks allocated : 44910792/44949352
+24417 memory blocks freed     : 44910792/44949352
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+23848 memory blocks allocated : 44872367/44910664
+23848 memory blocks freed     : 44872367/44910664
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14700 memory blocks allocated : 24950567/24971400
+14700 memory blocks freed     : 24950567/24971400
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14434 memory blocks allocated : 19507998/19528592
+14434 memory blocks freed     : 19507998/19528592
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14471 memory blocks allocated : 46771293/46791840
+14471 memory blocks freed     : 46771293/46791840
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14717 memory blocks allocated : 46779885/46800664
+14717 memory blocks freed     : 46779885/46800664
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14732 memory blocks allocated : 45751322/45772208
+14732 memory blocks freed     : 45751322/45772208
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14507 memory blocks allocated : 45739674/45760312
+14507 memory blocks freed     : 45739674/45760312
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14732 memory blocks allocated : 45747732/45768624
+14732 memory blocks freed     : 45747732/45768624
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
+/mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1 
+Heap dump by heaptrc unit of /mnt/6BD1D9FB0013F8A3/Programas Lazarus/Componentes/TSalesGraphicWeb/demo/project1
+14467 memory blocks allocated : 36050802/36071360
+14467 memory blocks freed     : 36050802/36071360
+0 unfreed memory blocks : 0
+True heap size : 720896
+True free heap : 720896
